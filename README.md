@@ -4,7 +4,7 @@
 
 I’m a Frontend Engineer with 2+ years of experience building scalable, responsive web applications and design systems.
 
-I enjoy turning complex requirements into clean, maintainable interfaces — with a strong focus on architecture, performance, UX, and developer experience.
+I enjoy turning complex requirements into clean, maintainable interfaces  with a strong focus on architecture, performance, UX, and developer experience.
 
 ### 🚀 What I work with
 
