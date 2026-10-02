@@ -30,7 +30,7 @@ Some of the things I've worked on:
 
 * Built reusable UI components used across multiple teams
 * Contributed to large-scale website and e-commerce migrations
-* Improved Lighthouse performance from 62 → 87
+* Improved Lighthouse performance from 62 → 100%
 * Built automated unit and end-to-end testing workflows
 * Worked with React, TypeScript, Next.js, Storybook, Playwright and monorepos
 
